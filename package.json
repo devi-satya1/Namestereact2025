@@ -1,0 +1,26 @@
+{
+  "name": "namestereact2025",
+  "version": "1.0.0",
+  "description": "this is nameste react project",
+  "source": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devi-satya1/Namestereact2025.git"
+  },
+  "author": "devi satya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devi-satya1/Namestereact2025/issues"
+  },
+  "homepage": "https://github.com/devi-satya1/Namestereact2025#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
